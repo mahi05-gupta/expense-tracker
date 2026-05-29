@@ -1,16 +1,73 @@
-# React + Vite
+Expense Tracker App 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Expense Tracker application built using React that helps users manage and track their daily expenses efficiently. The project demonstrates the use of major React Hooks including useState, useEffect, useRef, useMemo, and useCallback.
 
-Currently, two official plugins are available:
+🚀 Features
+➕ Add new expenses
+❌ Delete expenses
+📱 Fully responsive design
+🔄 Fetch mock data using API
+🎯 Auto focus input fields using useRef
+⚡ Optimized calculations using useMemo
+🔁 Optimized functions using useCallback
+📊 Real-time expense tracking
+🛠️ Tech Stack
+React.js
+JavaScript
+CSS / Tailwind CSS
+Mock API
+React Hooks
+📚 React Hooks Used
+useState
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Used for managing:
 
-## React Compiler
+Form inputs
+Expense list
+UI states
+useEffect
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Used for:
 
-## Expanding the ESLint configuration
+Fetching mock API data
+Rendering data on component mount
+useRef
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Used for:
+
+Input field focus management
+useMemo
+
+Used for:
+
+Optimizing total expense calculations
+useCallback
+
+Used for:
+
+Preventing unnecessary function re-creation
+📂 Project Structure
+src/
+│
+├── components/
+├── pages/
+├── App.js
+├── index.js
+└── styles/
+⚙️ Installation & Setup
+
+Clone the repository:
+
+git clone <your-repository-link>
+
+Navigate to the project folder:
+
+cd expense-tracker
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm start
