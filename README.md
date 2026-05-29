@@ -3,6 +3,7 @@ Expense Tracker App 💰
 A responsive Expense Tracker application built using React that helps users manage and track their daily expenses efficiently. The project demonstrates the use of major React Hooks including useState, useEffect, useRef, useMemo, and useCallback.
 
 🚀 Features
+
 ➕ Add new expenses
 ❌ Delete expenses
 📱 Fully responsive design
@@ -46,6 +47,7 @@ useCallback
 Used for:
 
 Preventing unnecessary function re-creation
+
 📂 Project Structure
 src/
 │
@@ -54,6 +56,8 @@ src/
 ├── App.js
 ├── index.js
 └── styles/
+
+
 ⚙️ Installation & Setup
 
 Clone the repository:
