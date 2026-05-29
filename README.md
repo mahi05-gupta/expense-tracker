@@ -110,9 +110,13 @@ npm start
 ```
 ---
 ## 📸 Screenshots
-1- <img width="1870" height="993" alt="image" src="https://github.com/user-attachments/assets/4d602c6c-1e97-4ceb-9d31-e6670fbb3fd3" />
-2- <img width="1806" height="726" alt="image" src="https://github.com/user-attachments/assets/aa414f99-bc01-4b88-8bad-c41757f57a37" />
+---
+<img width="1835" height="626" alt="image" src="https://github.com/user-attachments/assets/3595abb0-79f6-4f32-ba62-8986f72fe757" />
+---
+<img width="1806" height="726" alt="image" src="https://github.com/user-attachments/assets/aa414f99-bc01-4b88-8bad-c41757f57a37" />
+---
 3- <img width="1818" height="636" alt="image" src="https://github.com/user-attachments/assets/6dc5093b-2bcb-4a43-8499-80f968269892" />
+---
 4- <img width="684" height="845" alt="image" src="https://github.com/user-attachments/assets/1f74d798-c1b6-4249-a86f-df448c370b38" />
 
 ---
