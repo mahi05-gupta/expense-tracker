@@ -1,104 +1,119 @@
-Expense Tracker App 💰
+# Expense Tracker App 💰
 
-A responsive Expense Tracker application built using React that helps users manage and track their daily expenses efficiently. The project demonstrates the use of major React Hooks including useState, useEffect, useRef, useMemo, and useCallback.
+A fully responsive **Expense Tracker Application** built with **React.js** that helps users manage and monitor their daily expenses efficiently.
 
-🚀 Features
+This project demonstrates the practical implementation of important React concepts and hooks such as **useState, useEffect, useRef, useMemo, and useCallback**.
 
-➕ Add new expenses
+---
 
-❌ Delete expenses
+## 🚀 Features
 
-📱 Fully responsive design
+* ➕ Add new expenses
+* ❌ Delete expenses
+* 📱 Fully responsive UI
+* 🔄 Fetch mock expense data using API
+* 🎯 Auto-focus input fields using `useRef`
+* ⚡ Optimized calculations using `useMemo`
+* 🔁 Optimized functions using `useCallback`
+* 📊 Real-time expense tracking
+* 💡 Clean and user-friendly interface
 
-🔄 Fetch mock data using API
+---
 
-🎯 Auto focus input fields using useRef
+## 🛠️ Tech Stack
 
-⚡ Optimized calculations using useMemo
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS / CSS
+* Mock API
+* React Hooks
 
-🔁 Optimized functions using useCallback
+---
 
-📊 Real-time expense tracking
+## 📚 React Hooks Used
 
-
-🛠️ Tech Stack
-
-React.js
-
-JavaScript
-
-CSS / Tailwind CSS
-
-Mock API
-
-React Hooks
-
-
-📚 React Hooks Used
-
-useState
+### `useState`
 
 Used for managing:
 
-Form inputs
+* Form input fields
+* Expense list data
+* UI states
 
-Expense list
-
-UI states
-
-useEffect
+### `useEffect`
 
 Used for:
 
-Fetching mock API data
-Rendering data on component mount
-useRef
+* Fetching mock API data
+* Rendering data on component mount
+
+### `useRef`
 
 Used for:
 
-Input field focus management
-useMemo
+* Managing input focus automatically
+
+### `useMemo`
 
 Used for:
 
-Optimizing total expense calculations
-useCallback
+* Optimizing total expense calculations
+* Preventing unnecessary recalculations
+
+### `useCallback`
 
 Used for:
 
-Preventing unnecessary function re-creation
+* Preventing unnecessary function recreation
+* Improving component performance
 
-📂 Project Structure
+---
 
+## 📂 Project Structure
+
+```bash
 src/
-
 │
-
 ├── components/
-
 ├── pages/
-
 ├── App.js
-
 ├── index.js
-
 └── styles/
+```
 
+---
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-Clone the repository:
+### 1️⃣ Clone the Repository
 
+```bash
 git clone <your-repository-link>
+```
 
-Navigate to the project folder:
+### 2️⃣ Navigate to the Project Folder
 
+```bash
 cd expense-tracker
+```
 
-Install dependencies:
+### 3️⃣ Install Dependencies
 
+```bash
 npm install
+```
 
-Start the development server:
+### 4️⃣ Start the Development Server
 
+```bash
 npm start
+```
+---
+## 📸 Screenshots
+<img width="1870" height="993" alt="image" src="https://github.com/user-attachments/assets/4d602c6c-1e97-4ceb-9d31-e6670fbb3fd3" />
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
